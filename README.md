@@ -1,6 +1,6 @@
 # Tutorials
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Feugmo/tutorials) (Jupyter Notebook)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://github.com/Feugmo/tutorials/Bayesian.ipynb) (Jupyter Notebook)
 
 
 
